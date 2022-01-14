@@ -27,7 +27,7 @@ function setup() {
 
 	star = createSprite(650,30);
 	star.addImage(starImg);
-	star.scale = 0.2;
+	star.scale = 0.9;
 
 
 	engine = Engine.create();

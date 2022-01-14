@@ -21,7 +21,7 @@ function setup() {
 
 	fairyVoice.play();
 
-	fairy = createSprite(130, 520);
+	fairy = createSprite(130, 800);
 	fairy.addAnimation("fairyflying",fairyImg);  
 	fairy.scale =0.25;
 
